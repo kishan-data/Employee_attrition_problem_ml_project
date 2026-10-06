@@ -1,2 +1,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 .mov filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/kisha/OneDrive/Desktop/Pythonrepo/Employee_attrition_problem_ml_project filter=lfs diff=lfs merge=lfs -text
